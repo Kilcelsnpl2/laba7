@@ -1,0 +1,6 @@
+Toyota;2018;Ivanov;A123BC
+BMW;2012;Petrov;B456DE
+Lada;2008;Sidorov;C789FG
+Toyota;2021;Smirnov;D111HI
+Audi;2005;Kuznetsov;E222JK
+Ford;2015;Volkov;F333LM
